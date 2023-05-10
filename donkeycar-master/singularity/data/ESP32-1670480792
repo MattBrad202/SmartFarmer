@@ -1,0 +1,4 @@
+b'Following hex is 123'
+b'12345678'
+b'Na\xbc\x00'
+b'Length Test 12345678'

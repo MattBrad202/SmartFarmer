@@ -1,0 +1,1 @@
+{"PH":0.000000,"Phosphorus":0,"Temp":0.000000,"Nitrogen":0,"Potassium":0,"Moisture":12186}
